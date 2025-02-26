@@ -1,0 +1,8 @@
+.list_item {
+    border: 2px solid #003B62;
+    display: flex;
+    float: right;
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+
+}
