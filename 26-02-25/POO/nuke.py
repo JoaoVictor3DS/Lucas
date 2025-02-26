@@ -8,5 +8,7 @@ class Nuke:
         print('BOOOOM!')
 
 nuclear_arsenal = []
-nuclear_arsenal.append(Nuke('LitleBoy', 'atomic', '50 MegaTons'))
+nuclear_arsenal.append(Nuke('LitleBoy', 'atomic', '100 KiloTons'))
+nuclear_arsenal.append(Nuke('Tsar', 'termonuclear', '100 MegaTons'))
 nuclear_arsenal[0].detonate()
+nuclear_arsenal[1].detonate()
