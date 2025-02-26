@@ -1,0 +1,14 @@
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\bin\Debug\net8.0\EX3.exe
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\bin\Debug\net8.0\EX3.deps.json
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\bin\Debug\net8.0\EX3.runtimeconfig.json
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\bin\Debug\net8.0\EX3.dll
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\bin\Debug\net8.0\EX3.pdb
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\obj\Debug\net8.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\obj\Debug\net8.0\EX3.AssemblyInfoInputs.cache
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\obj\Debug\net8.0\EX3.AssemblyInfo.cs
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\obj\Debug\net8.0\EX3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\obj\Debug\net8.0\EX3.dll
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\obj\Debug\net8.0\refint\EX3.dll
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\obj\Debug\net8.0\EX3.pdb
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\obj\Debug\net8.0\EX3.genruntimeconfig.cache
+C:\Users\Aluno.DESKTOP-E9Q9IOC\JoaoVictor3DS\03_02_25\EX3\obj\Debug\net8.0\ref\EX3.dll
